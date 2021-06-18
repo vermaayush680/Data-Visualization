@@ -19,7 +19,7 @@ import plotly.express as px
 #Saving our file path in a variable
 
 ## MM-DD-YYYY
-path = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/06-13-2021.csv'
+path = 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/06-16-2021.csv'
 
 #Reading our data
 df = pd.read_csv(path)
